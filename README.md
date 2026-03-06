@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mauro Gonzalez
 
-<!--
-**megon1/megon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Analyst focused on software quality and testing.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing
+- Automation (Learning Cypress)
+
+## Tools
+
+Postman
+Jira
+Cypress
+GitHub
+
+## QA Projects
+
+Coming soon:
+- Ecommerce Testing Project
+- API Testing with Postman
+- Cypress Automation Demo
